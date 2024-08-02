@@ -1,2 +1,1 @@
-# holbertonschool-cyber_security
-cybersecurity_basics
+# cybersecurity_basics
